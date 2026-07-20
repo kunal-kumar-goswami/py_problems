@@ -23,7 +23,7 @@ Through these beginner-friendly exercises, you'll practice:
 
 ### 🔹 Basic Programs
 
-*<a href="addition">Addition</a>
+*[Addition].(#Addition)
 * Anonymous Function (Lambda)
 * Area of Triangle
 * Fibonacci Sequence
