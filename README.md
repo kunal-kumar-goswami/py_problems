@@ -23,18 +23,18 @@ Through these beginner-friendly exercises, you'll practice:
 
 ### 🔹 Basic Programs
 
-*[Addition].(#Addition)
-* Anonymous Function (Lambda)
-* Area of Triangle
-* Fibonacci Sequence
-* HCF & LCM
-* Integer to String Conversion
-* KM to Miles Conversion
-* Celsius to Fahrenheit Conversion
-* Fahrenheit to Celsius Conversion
-* Random Number Generator
-* Square Root Calculation
-* Swap Two Variables
+- 📁 [Addition](./Addition/)
+- 📁 [Anonymous Function (Lambda)](./Anonymous_Function/)
+- 📁 [Area of Triangle](./Area_of_Triangle/)
+- 📁 [Fibonacci Sequence](./Fibonacci/)
+- 📁 [HCF & LCM](./HCF_LCM/)
+- 📁 [Integer to String Conversion](./Integer_to_String/)
+- 📁 [KM to Miles Conversion](./KM_to_Miles/)
+- 📁 [Celsius to Fahrenheit Conversion](./Celsius_to_Fahrenheit/)
+- 📁 [Fahrenheit to Celsius Conversion](./Fahrenheit_to_Celsius/)
+- 📁 [Random Number Generator](./Random_Number/)
+- 📁 [Square Root Calculation](./Square_Root/)
+- 📁 [Swap Two Variables](./Swap_Two_Variables/)
 
 ### 🔹 Number-Based Programs
 
