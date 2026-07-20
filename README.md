@@ -23,7 +23,7 @@ Through these beginner-friendly exercises, you'll practice:
 
 ### 🔹 Basic Programs
 
-* Addition
+* Addition(https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Addition)
 * Anonymous Function (Lambda)
 * Area of Triangle
 * Fibonacci Sequence
