@@ -1,85 +1,156 @@
 # 🐍 Python Basics for Beginners
 
-Welcome to **Python Basics for Beginners**! 🚀
+> My first GitHub repository — a collection of beginner-friendly Python programs created while learning Python and problem-solving.
 
-This repository is a collection of fundamental Python programming problems and solutions designed specifically for beginners who are starting their journey in programming. Each problem focuses on building core Python concepts, logical thinking, and problem-solving skills.
+## 📖 About This Repository
+
+Hello! 👋 I'm a student passionate about programming and software development.
+
+This repository is my first step towards the world of open source and GitHub. It contains Python programs that I solved while learning the fundamentals of Python. Each program focuses on strengthening problem-solving skills and building a solid foundation in programming.
+
+As I continue my learning journey, I'll keep adding more programs and improving the code quality.
+
+---
 
 ## 📚 What You'll Learn
 
-Through these beginner-friendly exercises, you'll practice:
+This repository covers the fundamental concepts of Python, including:
 
-* Basic arithmetic operations
-* Variables and data types
-* User input and output
-* Conditional statements
-* Loops and iterations
-* Functions and lambda expressions
-* Mathematical calculations
-* Number theory concepts
-* Random number generation
-* Unit conversions
+- Variables and Data Types
+- User Input and Output
+- Arithmetic Operations
+- Conditional Statements
+- Loops
+- Functions
+- Lambda Functions
+- Number Theory
+- Mathematical Calculations
+- Random Number Generation
+- Unit Conversions
+
+---
 
 ## 📝 Problems Included
 
 ### 🔹 Basic Programs
 
 - 📁 [Addition](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Addition)
-- 📁 [Anonymous Function (Lambda)](./Anonymous_Function/)
-- 📁 [Area of Triangle](./Area_of_Triangle/)
-- 📁 [Fibonacci Sequence](./Fibonacci/)
-- 📁 [HCF & LCM](./HCF_LCM/)
-- 📁 [Integer to String Conversion](./Integer_to_String/)
-- 📁 [KM to Miles Conversion](./KM_to_Miles/)
-- 📁 [Celsius to Fahrenheit Conversion](./Celsius_to_Fahrenheit/)
-- 📁 [Fahrenheit to Celsius Conversion](./Fahrenheit_to_Celsius/)
-- 📁 [Random Number Generator](./Random_Number/)
-- 📁 [Square Root Calculation](./Square_Root/)
-- 📁 [Swap Two Variables](./Swap_Two_Variables/)
+- 📁 [Anonymous Function (Lambda)](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Anonymous_Function)
+- 📁 [Area of Triangle](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Area_of_Triangle)
+- 📁 [Fibonacci Sequence](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Fibonacci_sequence)
+- 📁 [HCF & LCM](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/HCF_%26_LCM)
+- 📁 [Intermediate](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Intermediate)
+- 📁 [Integer to String Conversion](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Intiger_to_String)
+- 📁 [KM to Miles Conversion](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/KM_to_Miles)
+- 📁 [Celsius to Fahrenheit Conversion](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/celcius_to_fahrenheit)
+- 📁 [Fahrenheit to Celsius Conversion](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/fahrenheit_to_celcius)
+- 📁 [Random Number Generator](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/random_No)
+- 📁 [Square Root Calculation](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/squareroot)
+- 📁 [Swap Two Variables](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/swap_two_variable)
 
 ### 🔹 Number-Based Programs
 
-* Armstrong Number
-* Nth Armstrong Number
-* Prime Number Check
-* Prime Numbers in an Interval
-* Factorial Calculation
-* Digits Count
-* Sum of Natural Numbers
+- 📁 [Armstrong Number](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/armstrongs_number)
+- 📁 [Nth Armstrong Number](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/nth_number_amstong)
+- 📁 [Prime Number Check](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/prime_or_not)
+- 📁 [Prime Numbers in an Interval](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/prime_in_intervel)
+- 📁 [Factorial Calculation](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/factorial_number)
+- 📁 [Digits Count](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/digits_count_)
+- 📁 [Sum of Natural Numbers](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/sum_of_natural_numbers)
 
 ### 🔹 Conditional Logic Programs
 
-* Check Positive, Negative, or Zero
-* Check Leap Year
-* Largest Among Three Numbers
-* Profit and Loss Calculator
+- 📁 [Check Positive, Negative, or Zero](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/check_positive%2Cnegative_or_zero)
+- 📁 [Check Leap Year](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/ckeck_leapYear)
+- 📁 [Largest Among Three Numbers](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/lagest%20_in_3)
+- 📁 [Profit and Loss Calculator](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/profit_loss_.py)
 
 ### 🔹 Loop-Based Programs
 
-* Multiplication Table
-* Fibonacci Series
-* Prime Number Generation
-* Factorial Calculation
+- 📁 [Multiplication Table](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/multiplication_table)
+- 📁 [Fibonacci Series](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/Fibonacci_sequence)
+- 📁 [Factorial Calculation](https://github.com/kunal-kumar-goswami/py_problems/tree/main/Python%20Problems/factorial_number)
 
-## 🎯 Purpose
-
-The goal of this repository is to provide a structured collection of beginner-level Python programs that help learners understand programming fundamentals through practical examples.
-
-Whether you're a student, coding enthusiast, or someone preparing for programming interviews, these exercises will help strengthen your Python basics and logical reasoning skills.
+---
 
 ## 🚀 Getting Started
 
-1. Clone this repository.
-2. Open any Python file.
-3. Run the program and explore the logic.
-4. Modify the code and experiment with your own ideas.
+Clone this repository:
 
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Navigate to any program folder and run the Python file:
+
+```bash
+python filename.py
+```
+
+---
+
+## 💡 Why I Built This Repository
+
+As a Computer Science student, I wanted a place to document my learning journey and practice programming fundamentals consistently.
+
+This repository helps me:
+
+- Improve Python programming skills
+- Build logical thinking
+- Practice problem-solving
+- Track my learning progress
+- Showcase my work on GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Git
+- GitHub
+
+---
 
 ## 🤝 Contributions
 
-Contributions, improvements, and additional beginner-friendly Python problems are always welcome.
+Suggestions and improvements are always welcome.
+
+If you'd like to improve any program or add new beginner-friendly problems, feel free to fork the repository and create a pull request.
+
+---
+
+# 👨‍💻 About Me
+
+I'm a student who enjoys learning new technologies and building projects while improving my programming skills.
+
+I'm currently exploring:
+
+- Python
+- Data Structures & Algorithms
+- Web Development
+- Open Source
+
+This repository marks the beginning of my software development journey.
+
+---
+
+## 👨‍💻 Author
+
+**KUNAL KUMAR GOSWAMI **
+
+## 📬 Contact
+
+- Email: kunalkmrgos@gmail.com
+- GitHub: https://github.com/kunal-kumar-goswami
+- LinkedIn: https://www.linkedin.com/in/kunalkumargoswami/
+
+Feel free to connect with me or share feedback!
+
+---
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐ to support the project and help other beginners discover it.
+If you found this repository helpful, please consider giving it a **Star ⭐**.
 
-Happy Coding! 💻✨
+It motivates me to keep learning, building, and sharing more projects.
+
