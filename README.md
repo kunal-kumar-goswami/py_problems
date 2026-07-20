@@ -129,6 +129,7 @@ I'm currently exploring:
 - Data Structures & Algorithms
 - Web Development
 - Open Source
+- AI & ML
 
 This repository marks the beginning of my software development journey.
 
