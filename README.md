@@ -137,7 +137,7 @@ This repository marks the beginning of my software development journey.
 
 ## 👨‍💻 Author
 
-**KUNAL KUMAR GOSWAMI **
+KUNAL KUMAR GOSWAMI 
 
 ## 📬 Contact
 
